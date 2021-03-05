@@ -1,1 +1,1 @@
-sample of using asp.net core default di work to castle
+sample of using asp.net core default di to work with castle
